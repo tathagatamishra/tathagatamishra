@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/tathagatamishra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/tathagatamishra">
+  <a href="https://github.com/tathagatamishra/">
     <img src="https://img.shields.io/github/followers/tathagatamishra?label=GitHub&style=social"/>
   </a>
   <a href="https://www.youtube.com/@vfxinvein/">
