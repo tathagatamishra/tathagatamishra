@@ -32,7 +32,7 @@
 
 <h3>Quick facts</h3>
 
-📖 Currently learning `JavaScript`, `NodeJS`, `MongoDB`, `React`, `ThreeJS`, `Redis`, `AWS` and `DSA` </li>
+📖 Currently learning `JavaScript`, `NodeJS`, `MongoDB`, `React`, `ThreeJS`, `Redis`, `AWS` and `DSA`
 ⛳ I always excited to learn new things</li>
 
 
