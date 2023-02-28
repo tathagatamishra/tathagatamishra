@@ -31,8 +31,8 @@
 ![tathagatamishra's github stats](https://github-readme-stats.vercel.app/api?username=tathagatamishra&theme=nightowl)
 
 <h3>Quick facts</h3>
-<ul>
-  <li>📖 Currently learning `JavaScript`, `NodeJS`, `MongoDB`, `React`, `ThreeJS`, `Redis`, `AWS` and `DSA` </li>
-  <li>⛳ I always excited to learn new things</li>
-</ul>
+
+📖 Currently learning `JavaScript`, `NodeJS`, `MongoDB`, `React`, `ThreeJS`, `Redis`, `AWS` and `DSA` </li>
+⛳ I always excited to learn new things</li>
+
 
