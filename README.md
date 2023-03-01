@@ -36,5 +36,7 @@
 📖 &#160;&#160; Currently learning `JavaScript`, `NodeJS`, `MongoDB`, `React`, `ThreeJS`, `Redis`, `AWS` and `DSA`
 <br>
 ⛳ &#160;&#160; I always excited to learn new things
+<br>
+🚀 &#160;&#160; Want to be a Game Developer 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&layout=compact&theme=tokyonight)](https://github.com/tathagatamishra/github-readme-stats)
