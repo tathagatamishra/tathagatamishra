@@ -9,6 +9,10 @@
   Hi, I'm Tathagata Mishra
 </em></p>
 
+
+<img src="https://komarev.com/ghpvc/?username=ashishingle29&label=Profile%20views&color=0e75b6&style=flat" alt="ashishingle29" />
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/tathagatamishra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
