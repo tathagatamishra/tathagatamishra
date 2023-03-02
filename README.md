@@ -10,9 +10,10 @@
 </em></p>
 
 
-<img src="https://komarev.com/ghpvc/?username=ashishingle29&label=Profile%20views&color=0e75b6&style=flat" alt="ashishingle29" />
 
 
+
+<img src="https://komarev.com/ghpvc/?username=tathagatamishra&label=Profile%20views&color=0e75b6&style=flat" alt="tathagatamishra" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/tathagatamishra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
