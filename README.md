@@ -28,7 +28,7 @@
 </div>
 <br>
 
-![tathagatamishra's github stats](https://github-readme-stats.vercel.app/api?username=tathagatamishra&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&layout=compact&theme=tokyonight)](https://github.com/tathagatamishra/github-readme-stats)
 
 <br>
 <h3>Quick facts</h3>
@@ -42,4 +42,5 @@
 🚀 &#160;&#160; Want to be a Game Developer 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&layout=compact&theme=tokyonight)](https://github.com/tathagatamishra/github-readme-stats)
+![tathagatamishra's github stats](https://github-readme-stats.vercel.app/api?username=tathagatamishra&theme=nightowl)
+
