@@ -33,7 +33,7 @@
 <br>
 <h3>Quick facts</h3>
 
-<img align='right' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="100">
 
 📖 &#160;&#160; Currently learning `JavaScript`, `NodeJS`, `MongoDB`, `React`, `ThreeJS`, `Redis`, `AWS` and `DSA`
 <br>
