@@ -8,6 +8,7 @@
   <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50">
   Hi, I'm Tathagata Mishra
 </em></p>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=tathagatamishra&row=10&column=1" width="90">
 
 <img src="https://komarev.com/ghpvc/?username=tathagatamishra&label=Profile%20views&color=0e75b6&style=flat" alt="tathagatamishra" />
 <div id="badges">
@@ -47,4 +48,3 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/tathagatamishra/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tathagatamishra"/></a> </p>
