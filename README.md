@@ -11,7 +11,7 @@
 <br>
 I'm Tathagata Mishra
 </p>
-<!-- <img align="left" src="https://github-profile-trophy.vercel.app/?username=tathagatamishra&row=10&column=1" width="90"> -->
+
 <!-- <img src="https://komarev.com/ghpvc/?username=tathagatamishra&label=Profile%20views&color=0e75b6&style=flat" alt="tathagatamishra" /> -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tathagatamishra/">
@@ -81,4 +81,7 @@ I'm Tathagata Mishra
 
 ---
 
-<!-- https://streak-stats.demolab.com/demo/ -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tathagatamishra&row=1&column=7" width="500">
+</div>
+  <!-- https://streak-stats.demolab.com/demo/ -->
