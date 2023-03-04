@@ -78,9 +78,11 @@ I'm Tathagata Mishra
 ⛳ &#160;&#160; I always excited to learn new things
 <br>
 🚀 &#160;&#160; Want to be a Game Developer 
+<br>
 
 ---
-
+<!-- <br> -->
+<h2 align="center">👾 REPOSITORIES 👾</h2>
 <!-- <div align="center"> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=tathagatamishra&row=1&column=7" width="500"> -->
 <!-- </div> -->
