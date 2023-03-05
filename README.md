@@ -86,4 +86,7 @@ I'm Tathagata Mishra
 <!-- <div align="center"> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=tathagatamishra&row=1&column=7" width="500"> -->
 <!-- </div> -->
-  <!-- https://streak-stats.demolab.com/demo/ -->
+<!-- https://streak-stats.demolab.com/demo/ -->
+<p  align="center">
+<img src="https://media.giphy.com/media/igh1ALZo9nkZiKef8M/giphy.gif"  height="10" width="2000">
+</p>
