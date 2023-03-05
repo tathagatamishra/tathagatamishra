@@ -78,7 +78,7 @@ I'm Tathagata Mishra
 ⛳ &#160;&#160; I always excited to learn new things
 <br>
 🚀 &#160;&#160; Want to be a Game Developer 
-<br>
+<br><br>
 
 ---
 <!-- <br> -->
