@@ -29,10 +29,9 @@ I'm Tathagata Mishra
   <a href="https://mishra-ji.netlify.app/">
     <img src="https://img.shields.io/badge/-Website-orange?&style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="1" width="2000">
+  <img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="0.5" width="500">
 </p>
-<br>
-
+<p>&nbsp;</p>
 <h2 align="center">🛠 Technologies & Skills 🛠</h2>
 <!-- <br> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&langs_count=10&layout=compact&theme=transparent&border_radius=50&background=FF5B5B00&stroke=FF0056&hide_border=true&title_color=5CCA6D&text_color=90ABFF">
