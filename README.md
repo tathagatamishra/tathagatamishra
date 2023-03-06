@@ -88,5 +88,6 @@ I'm Tathagata Mishra
 <!-- </div> -->
 <!-- https://streak-stats.demolab.com/demo/ -->
 <p  align="center">
-<img src="https://media.giphy.com/media/igh1ALZo9nkZiKef8M/giphy.gif"  height="10" width="2000">
+<img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="1" width="2000">
 </p>
+
