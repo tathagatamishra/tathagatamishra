@@ -92,3 +92,6 @@ I'm Tathagata Mishra
 <img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="1" width="2000">
 </p>
 
+| | | |
+| :--: | :--: | :--: |
+| ![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted) | ![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted) | ![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted) |
