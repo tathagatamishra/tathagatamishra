@@ -29,6 +29,7 @@ I'm Tathagata Mishra
   <a href="https://mishra-ji.netlify.app/">
     <img src="https://img.shields.io/badge/-Website-orange?&style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
+  <img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="1" width="2000">
 </p>
 <br>
 
