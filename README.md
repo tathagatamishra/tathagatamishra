@@ -83,7 +83,7 @@ I'm Tathagata Mishra
 
 ---
 <!-- <br> -->
-<h2 align="center">👾 REPOSITORIES 👾</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"> REPOSITORIES <img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"></h2>
 <!-- <div align="center"> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=tathagatamishra&row=1&column=7" width="500"> -->
 <!-- </div> -->
