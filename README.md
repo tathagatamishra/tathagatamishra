@@ -34,7 +34,11 @@ I'm Tathagata Mishra
   <br><img src="https://profile-counter.glitch.me/tathagatamishra/count.svg" alt="" />
 </p>
 <p>&nbsp;</p>
-<h2 align="center">🛠 Technologies & Skills 🛠</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">
+  Technologies & Skills
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">
+</h2>
 <!-- <br> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&langs_count=10&layout=compact&theme=transparent&border_radius=50&background=FF5B5B00&stroke=FF0056&hide_border=true&title_color=5CCA6D&text_color=90ABFF">
 <img align='right' src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200">
