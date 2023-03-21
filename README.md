@@ -87,6 +87,9 @@ I'm Tathagata Mishra
 <br><br>
 
 ---
+
+![Snake](https://github.com/tathagatamishra/tathagatamishra/blob/snake/github-contribution-grid-snake.svg?raw=true)
+
 <!-- <br> -->
 <h2 align="center"><img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"> REPOSITORIES <img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"></h2>
 <!-- <div align="center"> -->
