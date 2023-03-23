@@ -40,7 +40,7 @@ I'm Tathagata Mishra
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">
 </h2>
 <!-- <br> -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&langs_count=10&layout=compact&theme=transparent&border_radius=50&background=FF5B5B00&stroke=FF0056&hide_border=true&title_color=5CCA6D&text_color=90ABFF"> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&langs_count=10&layout=compact&theme=transparent&border_radius=50&background=FF5B5B00&stroke=FF0056&hide_border=true&title_color=5CCA6D&text_color=90ABFF">
 <img align='right' src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
@@ -98,9 +98,9 @@ I'm Tathagata Mishra
 <img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="1" width="2000">
 </p>
 
-<!-- | | |
+| | |
 | :--: | :--: |
-| [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&theme=radical)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Only-CSS&theme=radical)](https://github.com/tathagatamishra/Only-CSS.git) | -->
+| [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&theme=radical)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Only-CSS&theme=radical)](https://github.com/tathagatamishra/Only-CSS.git) |
 
 <!-- | | | |
 | :--: | :--: | :--: |
