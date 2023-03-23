@@ -31,7 +31,10 @@ I'm Tathagata Mishra
   </a>
   <br>
   <img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="0.5" width="500">
-  <br><img src="https://profile-counter.glitch.me/tathagatamishra/count.svg" alt="" />
+  <br>
+  Remember folks, efficiency is just clever laziness
+  <br><br>
+  <img src="https://profile-counter.glitch.me/tathagatamishra/count.svg" alt="" />
 </p>
 <p>&nbsp;</p>
 <h2 align="center">
