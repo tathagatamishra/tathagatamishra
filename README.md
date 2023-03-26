@@ -93,11 +93,11 @@ I'm Tathagata Mishra
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tathagatamishra&theme=react-dark&bg_color=transparent&hide_border=true" width="100%"/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> -->
 
 <!-- <br> -->
 <h2 align="center"><img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"> REPOSITORIES <img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"></h2>
