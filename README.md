@@ -108,3 +108,22 @@ I'm Tathagata Mishra
 <!-- | | | |
 | :--: | :--: | :--: |
 | [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Only-CSS)](https://github.com/tathagatamishra/Only-CSS.git) | [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)]() | -->
+
+---
+
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+
+```text
+Markdown     34 hrs 53 mins  🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.64 %
+TeX          32 hrs 11 mins  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.35 %
+TypeScript   11 hrs 35 mins  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.84 %
+Python       7 hrs 57 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.76 %
+Vue          6 hrs 54 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.86 %
+JSON         3 hrs 32 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.00 %
+```
+
+<!--END_SECTION:waka-->
+
+---
