@@ -91,6 +91,9 @@ I'm Tathagata Mishra
 
 ---
 
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tathagatamishra&theme=react-dark&bg_color=transparent&hide_border=true" width="100%"/>
+
 <!-- <br> -->
 <h2 align="center"><img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"> REPOSITORIES <img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"></h2>
 <!-- <div align="center"> -->
@@ -108,3 +111,4 @@ I'm Tathagata Mishra
 <!-- | | | |
 | :--: | :--: | :--: |
 | [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Only-CSS)](https://github.com/tathagatamishra/Only-CSS.git) | [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)]() | -->
+
