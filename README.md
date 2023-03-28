@@ -116,4 +116,3 @@ I'm Tathagata Mishra
 <!-- | | | |
 | :--: | :--: | :--: |
 | [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Only-CSS)](https://github.com/tathagatamishra/Only-CSS.git) | [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)]() | -->
-
