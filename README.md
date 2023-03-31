@@ -76,6 +76,7 @@ I'm Tathagata Mishra
 ![redis](https://img.shields.io/badge/Redis-FF0034?style=flat-square&logo=redis&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-FFBB1E?style=flat-square&logo=aws&logoColor=black)
 ![numpy](https://img.shields.io/badge/numpy-FFEED9?style=flat-square&logo=numpy&logoColor=0078D4)
+![WebGL](https://img.shields.io/badge/WebGL-E83838?style=flat-square&logo=WebGL&logoColor=FFFFFF)
 
 <br>
 <br>
