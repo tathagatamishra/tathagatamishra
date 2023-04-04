@@ -93,7 +93,7 @@ I'm Tathagata Mishra
 
 ---
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tathagatamishra&theme=react-dark&bg_color=transparent&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tathagatamishra&theme=react-dark&bg_color=transparent&hide_border=true&point=FF69B4&custom_title=My%20Contribution%20Graph&title_color=FFFFFF&color=75DBAE" width="100%"/>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
