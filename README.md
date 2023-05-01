@@ -114,9 +114,9 @@ I'm Tathagata Mishra
 
 | | |
 | :--: | :--: |
-| [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&theme=radical)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=DoSomePracticeBro&theme=radical)](https://github.com/tathagatamishra/DoSomePracticeBro.git) |
-| [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&theme=radical)](https://github.com/tathagatamishra/MyBlog.git) | [![4](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=DoSomePracticeBro&theme=radical)](https://github.com/tathagatamishra/ToDoApp.git) |
+| [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&theme=transparent)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=DoSomePracticeBro&theme=transparent)](https://github.com/tathagatamishra/DoSomePracticeBro.git) |
+| [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=MyBlog&theme=transparent)](https://github.com/tathagatamishra/MyBlog.git) | [![4](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=ToDoApp&theme=transparent)](https://github.com/tathagatamishra/ToDoApp.git) |
 
 <!-- | | | |
 | :--: | :--: | :--: |
-| [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Only-CSS)](https://github.com/tathagatamishra/Only-CSS.git) | [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)]() | -->
+| [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&theme=radical)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Only-CSS)](https://github.com/tathagatamishra/Only-CSS.git) | [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted)]() | -->
