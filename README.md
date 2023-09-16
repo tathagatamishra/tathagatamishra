@@ -79,7 +79,7 @@ I'm Tathagata Mishra
 <img align='left' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="150">
 <h3>Quick facts</h3>
 
-📖 &#160;&#160; Currently learning `JavaScript`, `NodeJS`, `MongoDB`, `React`, `ThreeJS`, `Redis`, `AWS` and `DSA`
+📖 &#160;&#160; Currently learning `JavaScript`, `NodeJS`, `MongoDB`, `React`, `ThreeJS`, `Python` and `DSA`
 <br>
 ⛳ &#160;&#160; I always excited to learn new things
 <br>
