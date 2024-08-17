@@ -88,7 +88,7 @@ I'm Tathagata Mishra
 
 ---
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tathagatamishra&theme=react-dark&bg_color=transparent&hide_border=true&point=FF69B4&custom_title=My%20Contribution%20Graph&title_color=FFFFFF&color=75DBAE" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tathagatamishra&theme=react-dark&bg_color=transparent&hide_border=true&point=FF69B4&custom_title=My%20Contribution%20Graph&title_color=FFFFFF&color=75DBAE" width="100%"/> -->
 
 <!-- <br> -->
 <h2 align="center"><img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"> REPOSITORIES <img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" height="25" width="25"></h2>
@@ -96,9 +96,9 @@ I'm Tathagata Mishra
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=tathagatamishra&row=1&column=7" width="500"> -->
 <!-- </div> -->
 <!-- https://streak-stats.demolab.com/demo/ -->
-<!-- <p  align="center">
+<p  align="center">
 <img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="1" width="2000">
-</p> -->
+</p>
 
 | | |
 | :--: | :--: |
