@@ -69,6 +69,7 @@ I'm Tathagata Mishra
 ![threejs](https://img.shields.io/badge/Three.js-6A6ECC?style=flat-square&logo=three.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![blender](https://img.shields.io/badge/Blender-FF6C37?style=flat-square&logo=blender&logoColor=white)
+![raspberrypi](https://img.shields.io/badge/RaspberryPi-c7053d?style=flat-square&logo=raspberrypi&logoColor=white)
 ![unrealengine](https://img.shields.io/badge/UnrealEngine-626E78?style=flat-square&logo=unrealengine&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-E83838?style=flat-square&logo=WebGL&logoColor=FFFFFF)
 ![UI-UX](https://img.shields.io/badge/UI-UX-F26B83?style=flat-square&logo=ui-ux&logoColor=F080F2)
