@@ -108,6 +108,7 @@ I'm Tathagata Mishra
 | :--: | :--: |
 | [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=DoSomePracticeBro&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/DoSomePracticeBro.git) | 
 | [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=ToDoApp&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/ToDoApp.git) | [![4](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=AniruddhaSen&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/AniruddhaSen.git) |
+| [![4](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=3DSideScroller&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/3DSideScroller.git) | [![5](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=3DSideScroller&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/3DSideScroller.git) |
 
 <!-- | | | |
 | :--: | :--: | :--: |
