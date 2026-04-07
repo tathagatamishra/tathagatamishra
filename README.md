@@ -108,11 +108,12 @@ I'm Tathagata Mishra
 <img src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif"  height="1" width="2000">
 </p>
 
-| | |
-| :--: | :--: |
-| [![1](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=DoSomePracticeBro&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/DoSomePracticeBro.git) | 
-| [![3](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=ToDoApp&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/ToDoApp.git) | [![4](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=CuvetteProjects&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/CuvetteProjects.git) |
-| [![5](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Corebound&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/Corebound.git) | [![6](https://github-readme-stats.vercel.app/api/pin/?username=tathagatamishra&repo=Corebound&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/Corebound.git) |
+
+|      |      |
+| ---- | ---- |
+| [![1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tathagatamishra&repo=Points-2B-Noted&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/Points-2B-Noted.git) | [![2](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tathagatamishra&repo=DoSomePracticeBro&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/DoSomePracticeBro.git) | 
+| [![3](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tathagatamishra&repo=ToDoApp&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/ToDoApp.git) | [![4](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tathagatamishra&repo=CuvetteProjects&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/CuvetteProjects.git) |
+| [![5](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tathagatamishra&repo=JAVAfor1stTime&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/JAVAfor1stTime.git) | [![6](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tathagatamishra&repo=Corebound&title_color=006AFF&bg_color=ffffff00&text_color=808B96)](https://github.com/tathagatamishra/Corebound.git) |
 
 <!-- | | | |
 | :--: | :--: | :--: |
