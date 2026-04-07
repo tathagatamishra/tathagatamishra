@@ -41,8 +41,12 @@ I'm Tathagata Mishra
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">
 </h2>
 <!-- <br> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&langs_count=10&layout=compact&theme=transparent&border_radius=50&background=FF5B5B00&stroke=FF0056&hide_border=true&title_color=5CCA6D&text_color=90ABFF">
-<img align='right' src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200">
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagatamishra&langs_count=10&layout=compact&theme=transparent&border_radius=50&background=FF5B5B00&stroke=FF0056&hide_border=true&title_color=5CCA6D&text_color=90ABFF"> -->
+
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" align='left' />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+
+<!-- <img align='right' src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200"> -->
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
