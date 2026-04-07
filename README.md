@@ -46,7 +46,7 @@ I'm Tathagata Mishra
 <img src="https://github.com/tathagatamishra/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" align='left' />
 <img src="https://github.com/tathagatamishra/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" align='left' />
 
-<!-- <img align='right' src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200"> -->
+<img align='right' src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
