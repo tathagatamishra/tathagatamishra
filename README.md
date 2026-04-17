@@ -73,10 +73,10 @@ I'm Tathagata Mishra
 ![redis](https://img.shields.io/badge/Redis-FF0034?style=flat-square&logo=redis&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FFBB1E?style=flat-square&logo=amazonwebservices&logoColor=black)
+![UI-UX](https://img.shields.io/badge/UI-UX-F26B83?style=flat-square&logo=ui-ux&logoColor=F080F2)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![unrealengine](https://img.shields.io/badge/UnrealEngine-626E78?style=flat-square&logo=unrealengine&logoColor=white)
 ![blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![UI-UX](https://img.shields.io/badge/UI-UX-F26B83?style=flat-square&logo=ui-ux&logoColor=F080F2)
 ![raspberrypi](https://img.shields.io/badge/RaspberryPi-c7053d?style=flat-square&logo=raspberrypi&logoColor=white)
 
 
